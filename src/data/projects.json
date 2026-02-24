@@ -16,7 +16,7 @@
             "条件分岐による注意事項等の自動割り当て",
             "例外・フォールバック処理の実装（特殊工程の自動付与など）"
         ],
-        "imageUrl": "/images/project1.png"
+        "imageUrl": "images/project1.png"
     },
     {
         "id": 2,
@@ -33,7 +33,7 @@
             "特定カテゴリのフォント色自動変更による視認性向上",
             "人員の増減対応を考慮して、入力シートを瞬時に追加する機能"
         ],
-        "imageUrl": "/images/project2.png"
+        "imageUrl": "images/project2.png"
     },
     {
         "id": 3,
@@ -50,7 +50,7 @@
             "コマンドプロンプト経由での社内サーバー時刻の取得",
             "UserFormによる社員番号検索と個人シートへの自動遷移"
         ],
-        "imageUrl": "/images/project3.png"
+        "imageUrl": "images/project3.png"
     },
     {
         "id": 4,
@@ -69,7 +69,7 @@
             "数十台の設備ごとの別ファイルから必要なデータを高速抽出する集計ロジック",
             "生産数だけでなく、非稼働（段取り）時間を抽出・可視化するレポート生成"
         ],
-        "imageUrl": "/images/project4.png"
+        "imageUrl": "images/project4.png"
     },
     {
         "id": 5,
@@ -86,6 +86,7 @@
             "システム変数による旋削工具・回転(ミル)工具の自動判別と条件分岐処理",
             "登録外の工具番号が指定された場合のアラーム停止（フェールセーフ機能）"
         ],
-        "imageUrl": "/images/project5.png"
+        "imageUrl": "images/project5.png"
     }
+
 ]
